@@ -1,6 +1,6 @@
-# [Unqualified Beta] LiveEngage In-App Messaging iOS SDK - Compiled with Swift 4.0 (Xcode 9 Beta 3)
+# [Unqualified Beta] LiveEngage In-App Messaging iOS SDK - Supported for XCode 9, Swift 4.0 and iOS11
 **For beta usage only. Do not use for productive usage.
-This version did not enter any testing or quality assurance cycles.**
+This version did not enter any testing or quality assurance cycles. Certified version is planned with v2.8**
 
 This read.me include the quick start guide for LiveEngage In-App Messaging iOS SDK in Swift and Objective-C.
 
