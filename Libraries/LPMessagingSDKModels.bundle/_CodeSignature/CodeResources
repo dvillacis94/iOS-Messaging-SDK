@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		bEHa6ZI6hgN3XFbEkRsPQ4XYf9M=
+		VnSl7xwJpNoHDCSrFamubWb7G1E=
 		</data>
 		<key>Base.lproj/LPLocalizable.strings</key>
 		<data>
@@ -86,31 +86,31 @@
 		</data>
 		<key>InputTextView.nib</key>
 		<data>
-		Bbw77kXylw+IFuATuC1MrrKyPIU=
+		vbMAmcnM6WwXGNeQI5kxg8axxmQ=
 		</data>
 		<key>IsTypingFooterView.nib</key>
 		<data>
-		gVqKCd6XHrNq/M5ga2imuoYFHow=
+		PXzjsk7Vssgb+wjR7qYPmpLItBw=
 		</data>
 		<key>LPLoader.nib</key>
 		<data>
-		MyGy3lDQZLCKXfP75zmakbAmtaA=
+		VDWWxaqNP5R+LF+a7uzLt8qV4CI=
 		</data>
 		<key>LPMessagingSDK.storyboardc/ConversationViewController.nib</key>
 		<data>
-		UViFXHpDkokgP0GsfZ4MD5OWF0Y=
+		9kuSgv87yc0dNajUerAQAeBUWSM=
 		</data>
 		<key>LPMessagingSDK.storyboardc/He6-9U-uAa-view-e2x-o0-eeq.nib</key>
 		<data>
-		MP+JMSIfYdTF7IknXKCqK/gRzMY=
+		njRytbWO6FkxyvdoijoCS7p5E7k=
 		</data>
 		<key>LPMessagingSDK.storyboardc/ImagePreview.nib</key>
 		<data>
-		h5HT5CHYiXQH/TLavqH9VFPvmEw=
+		C8lc3+zojNnjDL/NhP4JJAUZ/QY=
 		</data>
 		<key>LPMessagingSDK.storyboardc/ImageViewer.nib</key>
 		<data>
-		D96Sv+BNka4Jpjfbw6LF7TZ4gP8=
+		dtRlcUh36Zmbo87Czai+INatO+I=
 		</data>
 		<key>LPMessagingSDK.storyboardc/Info.plist</key>
 		<data>
@@ -118,63 +118,63 @@
 		</data>
 		<key>LPMessagingSDK.storyboardc/LPMessagingSDKNavigationController.nib</key>
 		<data>
-		xZMfNbD7MLpYuINqkVBYUvDx8Gs=
+		EC1gOqNfSnJj033CR9zFkaWZq8I=
 		</data>
 		<key>LPMessagingSDK.storyboardc/Ned-tu-FGc-view-fiV-Nx-K7g.nib</key>
 		<data>
-		U2yeeQ7086gNmgNywa/TvuTNeOk=
+		tsoHxAvTIfMCu2uunO8RZRhWsJ8=
 		</data>
 		<key>LPMessagingSDK.storyboardc/SecureFormNavigationController.nib</key>
 		<data>
-		wMxj3ns1DkVzkFTLv09lt3K7QhY=
+		7kLEVTFGcwBr05sDUfAt4xMvwr8=
 		</data>
 		<key>LPMessagingSDK.storyboardc/UINavigationController-pcf-pz-hSE.nib</key>
 		<data>
-		c8G4FIuDl653nGMeBsq2YKZVWrI=
+		Q0B1PE7cGwAwS6tknTlj+LSrsRM=
 		</data>
 		<key>LPMessagingSDK.storyboardc/WindowContainerNavigationController.nib</key>
 		<data>
-		bVO7mGW2NR+lwOYgBtKzt8qr29w=
+		Jo03/D91NoC0qqb/jqPD2lsplSU=
 		</data>
 		<key>LPMessagingSDK.storyboardc/WindowContainerViewController.nib</key>
 		<data>
-		t3iC3BcwrE/91mo7x7ghcURmHaQ=
+		Ffyccq/PzHkArPj/RAPiPmzmr14=
 		</data>
 		<key>LPMessagingSDK.storyboardc/Yba-sZ-2zf-view-wia-Wd-Hsk.nib</key>
 		<data>
-		KYw1fc8+z6KvHeCwG2ojwsrzUm0=
+		aMMZGTX7002oe+QbG860NRWxx9E=
 		</data>
 		<key>LPMessagingSDK.storyboardc/l4D-Be-dJq-view-udH-A2-kX1.nib</key>
 		<data>
-		a493n19IP3CNLzRgkGzaH10dMZs=
+		5Ii1JhD9ZrSDKmPrVBUWD8NGsvY=
 		</data>
 		<key>LPMessagingSDK.storyboardc/rfv-wQ-bsK-view-m10-rm-DDw.nib</key>
 		<data>
-		wOpx6pWU7y4wT5Sj9xkVkCUn1AU=
+		SkqcNEGemlLvYZVVL+VFeIDTzEI=
 		</data>
 		<key>LPMessagingSDK.storyboardc/tkq-gG-IfV-view-sqV-6P-Zpn.nib</key>
 		<data>
-		+5yF2sF/2b+7i6FuWo/RWItGsT8=
+		yo08QdzMsK0C+NfpPNQ8Pec5Klc=
 		</data>
 		<key>LPScrollButton.nib</key>
 		<data>
-		hyGpqGzi4ZXSAivdaAFehFeQxaA=
+		/YLFR1JF6xJ/3l7vTiJdQ94EkYY=
 		</data>
 		<key>LinkPreviewRealTimeView.nib</key>
 		<data>
-		u9knUSoKOR4YHztNFbKGRzZ6NBE=
+		SQzLvfFrFl4KPpXWKFHE1P5pU9c=
 		</data>
 		<key>NSBouncyView.nib</key>
 		<data>
-		9OTpj76Nu7E6wNRbzK0wc1xU33k=
+		VAtV9joBR8cL41VT8DZqVukvDis=
 		</data>
 		<key>PhotoSharingMenu.nib</key>
 		<data>
-		EKKtSmuGPPjR8z5LT1k1uBgs0gY=
+		tYWiQxfbbEbjPxJOPwFUuxk4TOI=
 		</data>
 		<key>Toast.nib</key>
 		<data>
-		+3fR1Qfmf+Vc7FdWyv3LDuFL7gk=
+		uZHQP4cGBH/DHyCq4Y3OmzneyVo=
 		</data>
 		<key>bg.lproj/LPLocalizable.strings</key>
 		<dict>
@@ -187,7 +187,7 @@
 		</dict>
 		<key>chatSeperator.nib</key>
 		<data>
-		xAZpMT456raBkizzUrFbtFc7qdE=
+		AywiJKI8AiWofGwYbiPcJh0Mjr8=
 		</data>
 		<key>cs.lproj/LPLocalizable.strings</key>
 		<dict>
@@ -538,11 +538,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bEHa6ZI6hgN3XFbEkRsPQ4XYf9M=
+			VnSl7xwJpNoHDCSrFamubWb7G1E=
 			</data>
 			<key>hash2</key>
 			<data>
-			ABPlhEKtZ++ACX7b/+ZE69FU1aXJmaoP1TGZSQqmWJE=
+			RL0W2agwMzllvqoin75ktsHaVMIgORIPVnXkhGCYRIs=
 			</data>
 		</dict>
 		<key>Base.lproj/LPLocalizable.strings</key>
@@ -758,77 +758,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Bbw77kXylw+IFuATuC1MrrKyPIU=
+			vbMAmcnM6WwXGNeQI5kxg8axxmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			m1tmfNt5D+WNnyQyjul+mHTaguvKV2ybobEfCiX6ZG8=
+			FjwtpBhYi9k12Eb+w9L8VkuhBRv2piFLOoO2mz2ore0=
 			</data>
 		</dict>
 		<key>IsTypingFooterView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gVqKCd6XHrNq/M5ga2imuoYFHow=
+			PXzjsk7Vssgb+wjR7qYPmpLItBw=
 			</data>
 			<key>hash2</key>
 			<data>
-			z+jCYB1xBZfmrVGgMz5+BukuB+XXvRezd96t7BJ75o4=
+			Adu6kmqmkNqztXP9xjivwBdk+uag5oM/SL38S3zQGmM=
 			</data>
 		</dict>
 		<key>LPLoader.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MyGy3lDQZLCKXfP75zmakbAmtaA=
+			VDWWxaqNP5R+LF+a7uzLt8qV4CI=
 			</data>
 			<key>hash2</key>
 			<data>
-			BQP6irD6ab3SelogrxrkrJzhyOg1jf+lpY29vNBitJs=
+			qP09pJnEubMteWfV6QcP1QtPSSF9xtwQoXRyKcAe3eU=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/ConversationViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UViFXHpDkokgP0GsfZ4MD5OWF0Y=
+			9kuSgv87yc0dNajUerAQAeBUWSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			GY6LcsSb7fsJjfWyXdpy0Vj3z0E1EB2b4dhH4WS9BNU=
+			14QB16jyLDzeBoEpUx41hP9NwgzABL3Pw3EPP4Abn0Y=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/He6-9U-uAa-view-e2x-o0-eeq.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MP+JMSIfYdTF7IknXKCqK/gRzMY=
+			njRytbWO6FkxyvdoijoCS7p5E7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			HdOlvgM+1AMs7+YrzaV+YLG6Or6KMZEm2XKJbDfCpvM=
+			ZkC48g+bD8g0ACF+Y/S1I//hSAkSZGBQTt306BZEHUc=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/ImagePreview.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			h5HT5CHYiXQH/TLavqH9VFPvmEw=
+			C8lc3+zojNnjDL/NhP4JJAUZ/QY=
 			</data>
 			<key>hash2</key>
 			<data>
-			YP+l9z23TF38kgKmIeVwFTgy9J+1/TdWLjRJrifjc6w=
+			A6OeT6jjqovSwC3hPyTs5hHJ+sVUB8QamAI3lz26//Q=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/ImageViewer.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D96Sv+BNka4Jpjfbw6LF7TZ4gP8=
+			dtRlcUh36Zmbo87Czai+INatO+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			/iqEaxlxrImvKfuC49pbr67/juwZG/6+Q9lqrV7Y7cw=
+			IyuubYfDM6UNEDnhMPcEUQJaizGkGnolS4xkuivkTt0=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/Info.plist</key>
@@ -846,165 +846,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xZMfNbD7MLpYuINqkVBYUvDx8Gs=
+			EC1gOqNfSnJj033CR9zFkaWZq8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			xMfTgjNPPcYf50aNtaHOpWdz9TJp9rO88ozYflUaXjI=
+			HN85LniJWJEcFQbyuy13lkxrucExsaVnnsK71bSgh7Y=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/Ned-tu-FGc-view-fiV-Nx-K7g.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			U2yeeQ7086gNmgNywa/TvuTNeOk=
+			tsoHxAvTIfMCu2uunO8RZRhWsJ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			JLiBOPZeAwnmDdbERchr4G4OsN2ECBfq7IbAf4PlNDQ=
+			4C1bXRemsgo9bypIoO+dFvYTvBi18G4Wj/bKOQ2sVCw=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/SecureFormNavigationController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wMxj3ns1DkVzkFTLv09lt3K7QhY=
+			7kLEVTFGcwBr05sDUfAt4xMvwr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			0IWHayCIYjZdRGcF/E333G70Jv88EqhOi0qYcj/toes=
+			VkUmlcUREXbsF/NTkRK6UvFT6LRFZLdcTt9CDwkBwvA=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/UINavigationController-pcf-pz-hSE.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c8G4FIuDl653nGMeBsq2YKZVWrI=
+			Q0B1PE7cGwAwS6tknTlj+LSrsRM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hnBa91OHYnxF/1VKTArTBE5vsVwvf1bWN1LfEmHHuDQ=
+			wTjXgAJ4fdb/ErXfjoKyMWPwdfP1oqIor0eYgzptWa8=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/WindowContainerNavigationController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bVO7mGW2NR+lwOYgBtKzt8qr29w=
+			Jo03/D91NoC0qqb/jqPD2lsplSU=
 			</data>
 			<key>hash2</key>
 			<data>
-			60gCotcOw6/NfXTnPhW+MR38+tY/4D+OIML/LMniLfY=
+			6vRZ0Q+N2skipITWpDVyMx8k2W0AInQulc8fu8qpVyo=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/WindowContainerViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t3iC3BcwrE/91mo7x7ghcURmHaQ=
+			Ffyccq/PzHkArPj/RAPiPmzmr14=
 			</data>
 			<key>hash2</key>
 			<data>
-			abT1acbw7USvtQD9TqZWrMTaC3AG779EUHieIx1yueQ=
+			hawlwJz1ueMGrD+SyjyJuicX+uHah+gomVma+/Ijhz8=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/Yba-sZ-2zf-view-wia-Wd-Hsk.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KYw1fc8+z6KvHeCwG2ojwsrzUm0=
+			aMMZGTX7002oe+QbG860NRWxx9E=
 			</data>
 			<key>hash2</key>
 			<data>
-			N3EVblYHzWf3qMX07Hi+/rCbyzTuDJ1CibB4nSFK1XM=
+			5EE3wovROwpCiEHh+cdqNKhFjcoPpwewY5PvX+m4D2k=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/l4D-Be-dJq-view-udH-A2-kX1.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a493n19IP3CNLzRgkGzaH10dMZs=
+			5Ii1JhD9ZrSDKmPrVBUWD8NGsvY=
 			</data>
 			<key>hash2</key>
 			<data>
-			5Q5zu2Z3B+Wy9xRoa7AtVcwFMvSOHEsaIDaKVjRShZA=
+			AN0T+4LBhHhYQeizDic/cre4v2mHg2pngO9gDnWA6BI=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/rfv-wQ-bsK-view-m10-rm-DDw.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wOpx6pWU7y4wT5Sj9xkVkCUn1AU=
+			SkqcNEGemlLvYZVVL+VFeIDTzEI=
 			</data>
 			<key>hash2</key>
 			<data>
-			xwtKA6R7P88pONwKPsLQcGXqChEo5l/uSa4pL6YWpAs=
+			VxoyLvJAXF2+VitnOegGGkWx5vke7Tnkx+3+/7KlfC4=
 			</data>
 		</dict>
 		<key>LPMessagingSDK.storyboardc/tkq-gG-IfV-view-sqV-6P-Zpn.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+5yF2sF/2b+7i6FuWo/RWItGsT8=
+			yo08QdzMsK0C+NfpPNQ8Pec5Klc=
 			</data>
 			<key>hash2</key>
 			<data>
-			scVubxvk7powqrBUesep9kijcjPmrA6YUHbodS2zg58=
+			3r1gRIlFjOmwM3yuK5yu3BFHg+0eKY82ucTHihn9V5U=
 			</data>
 		</dict>
 		<key>LPScrollButton.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hyGpqGzi4ZXSAivdaAFehFeQxaA=
+			/YLFR1JF6xJ/3l7vTiJdQ94EkYY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vvP1DJHoIE3EL2ZRBg02onShwa8oTpVIGDjmt9iBwMc=
+			wj1ocLhi3KKztX6PM70QslhxB6TWxdveMX4wnWpnawU=
 			</data>
 		</dict>
 		<key>LinkPreviewRealTimeView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u9knUSoKOR4YHztNFbKGRzZ6NBE=
+			SQzLvfFrFl4KPpXWKFHE1P5pU9c=
 			</data>
 			<key>hash2</key>
 			<data>
-			o2dF1gvfW5kT93I5UA52Qg+5kyny8ObUYrYaOGrdLN0=
+			Kg39KvsVDymKtYCvbmbLHnPb7G6D00B2t7H7eBaJ5e4=
 			</data>
 		</dict>
 		<key>NSBouncyView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9OTpj76Nu7E6wNRbzK0wc1xU33k=
+			VAtV9joBR8cL41VT8DZqVukvDis=
 			</data>
 			<key>hash2</key>
 			<data>
-			fo0vsex/WHBoupKkW1dtGRDrsI4TAs0U0uksyWze9Y8=
+			eNeyLAWTnfgKjHd76mBd+kvZipNOZqubTgXICJ3mJN8=
 			</data>
 		</dict>
 		<key>PhotoSharingMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EKKtSmuGPPjR8z5LT1k1uBgs0gY=
+			tYWiQxfbbEbjPxJOPwFUuxk4TOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yq/p+XPdX9WcE5nGSg83NxFR7guFTfrwCOIURgXKklI=
+			eWbic/ZBwzmaHoWNyUC9JWQm7aP9w0Yscu2BWKhZ9hY=
 			</data>
 		</dict>
 		<key>Toast.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+3fR1Qfmf+Vc7FdWyv3LDuFL7gk=
+			uZHQP4cGBH/DHyCq4Y3OmzneyVo=
 			</data>
 			<key>hash2</key>
 			<data>
-			NicTnXGHE/cKmFrmiquxfllabTcGh1f/laCVwlVMR34=
+			N8Gx0ENWdJ1YfEcD64k6HZaBwLm9TAZN+81mLhyQhQ8=
 			</data>
 		</dict>
 		<key>bg.lproj/LPLocalizable.strings</key>
@@ -1024,11 +1024,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xAZpMT456raBkizzUrFbtFc7qdE=
+			AywiJKI8AiWofGwYbiPcJh0Mjr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			UGwFE5b6pPwA2U9SSAJFBhyQ5vD7tzzzlBY7xbz/exs=
+			FjsIXcD3wGxqqNEEzIGyVv4tMXp2rvU4c+YOanxIpNU=
 			</data>
 		</dict>
 		<key>cs.lproj/LPLocalizable.strings</key>
